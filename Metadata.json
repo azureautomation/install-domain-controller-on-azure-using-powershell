@@ -1,0 +1,20 @@
+{
+    "Author": "Mai Ali",
+    "ContentSize": 2844,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/install-domain-controller-on-azure-using-powershell/master/Install-DC.ps1",
+    "DownloadCount": 1352,
+    "Id": "Install-Domain-Controller-a172b4a0",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 202,
+    "RaterCount": 14,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-12-17T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Script was created to Install Domain Controller on Azure VM.Simply edit the PS1 file based on the  comments in the file to match your environment and you will have a  simple way of deploying Domain controller.",
+    "Title": "Install Domain Controller on Azure using Powershell",
+    "UpdatedDate": "2017-12-17T00:00:00",
+    "Url": "https://github.com/azureautomation/install-domain-controller-on-azure-using-powershell",
+    "UserTags": "Azure, Microsoft Azure, Active Directory"
+}
